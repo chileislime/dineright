@@ -1,3 +1,4 @@
+import Link from 'next/link'
 export default async function Home() {
   return (
     <main className="min-h-screen bg-green-950 flex flex-col items-center justify-center px-4">
@@ -16,15 +17,15 @@ export default async function Home() {
         </p>
 
         <div className="flex flex-col gap-4">
-          <button className="bg-green-500 hover:bg-green-400 text-white font-semibold py-4 rounded-2xl text-lg transition">
+          <Link href="/onboarding" className="bg-green-500 hover:bg-green-400 text-white font-semibold py-4 rounded-2xl text-lg transition">
             💪 Lean Bulk
-          </button>
-          <button className="bg-green-700 hover:bg-green-600 text-white font-semibold py-4 rounded-2xl text-lg transition">
+          </Link>
+          <Link href="/onboarding" className="bg-green-700 hover:bg-green-600 text-white font-semibold py-4 rounded-2xl text-lg transition">
             🔥 Cut (Lose Fat)
-          </button>
-          <button className="bg-green-800 hover:bg-green-700 text-white font-semibold py-4 rounded-2xl text-lg transition">
+          </Link>
+          <Link href="/onboarding" className="bg-green-800 hover:bg-green-700 text-white font-semibold py-4 rounded-2xl text-lg transition">
             ⚖️ Maintain
-          </button>
+          </Link>
         </div>
 
         <p className="text-green-600 text-xs mt-8">

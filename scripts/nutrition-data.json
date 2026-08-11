@@ -1,0 +1,262 @@
+{
+  "Orange Chicken with Broccoli": {
+    "fdc_id": 2706443,
+    "fdc_description": "Orange chicken",
+    "serving_label": "1 cup",
+    "serving_grams": 252,
+    "calories": 660,
+    "protein_g": 36.5,
+    "carbs_g": 56.7,
+    "fat_g": 32
+  },
+  "White Rice": {
+    "fdc_id": 168878,
+    "fdc_description": "Rice, white, long-grain, regular, enriched, cooked",
+    "serving_label": "1 cup",
+    "serving_grams": 158,
+    "calories": 205,
+    "protein_g": 4.3,
+    "carbs_g": 44.5,
+    "fat_g": 0.4
+  },
+  "Vegetable Spring Rolls": {
+    "fdc_id": 172105,
+    "fdc_description": "Egg rolls, vegetable, frozen, prepared",
+    "serving_label": "1 cup",
+    "serving_grams": 68,
+    "calories": 146,
+    "protein_g": 4,
+    "carbs_g": 21.6,
+    "fat_g": 4.7
+  },
+  "Lemon Green Beans": {
+    "fdc_id": 2709863,
+    "fdc_description": "Green beans, canned, cooked with oil",
+    "serving_label": "1 cup",
+    "serving_grams": 145,
+    "calories": 73,
+    "protein_g": 1.5,
+    "carbs_g": 5.8,
+    "fat_g": 4.8
+  },
+  "Sweet & Sour Sauce": {
+    "fdc_id": 2706392,
+    "fdc_description": "Beef with sweet and sour sauce",
+    "serving_label": "1 cup",
+    "serving_grams": 252,
+    "calories": 532,
+    "protein_g": 23.4,
+    "carbs_g": 35.8,
+    "fat_g": 32.3
+  },
+  "Hot Dog Buns": {
+    "fdc_id": 2707750,
+    "fdc_description": "Roll, whole wheat, hot dog bun",
+    "serving_label": "2 pieces",
+    "serving_grams": 45,
+    "calories": 121,
+    "protein_g": 5.6,
+    "carbs_g": 20.2,
+    "fat_g": 2
+  },
+  "Baked Potatoes": {
+    "fdc_id": 2709524,
+    "fdc_description": "Potato, baked, peel eaten",
+    "serving_label": "1 cup",
+    "serving_grams": 130,
+    "calories": 121,
+    "protein_g": 3.2,
+    "carbs_g": 27.3,
+    "fat_g": 0.2
+  },
+  "Cheese Tortellini": {
+    "fdc_id": 2708788,
+    "fdc_description": "Tortellini, cheese-filled, meatless, with tomato sauce, canned",
+    "serving_label": "1 cup",
+    "serving_grams": 247,
+    "calories": 225,
+    "protein_g": 8.6,
+    "carbs_g": 39.5,
+    "fat_g": 3.7
+  },
+  "Sliced Grilled Chicken": {
+    "fdc_id": 171534,
+    "fdc_description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",
+    "serving_label": "2 piece",
+    "serving_grams": 196,
+    "calories": 296,
+    "protein_g": 59.9,
+    "carbs_g": 0,
+    "fat_g": 6.2
+  },
+  "Garlic Toast": {
+    "fdc_id": 2708450,
+    "fdc_description": "Cereal, cinnamon toast",
+    "serving_label": "1 cup",
+    "serving_grams": 40,
+    "calories": 166,
+    "protein_g": 2.4,
+    "carbs_g": 30.1,
+    "fat_g": 4
+  },
+  "California Blend": {
+    "fdc_id": 2710031,
+    "fdc_description": "Broccoli and cauliflower, cooked, no added fat",
+    "serving_label": "1 cup",
+    "serving_grams": 155,
+    "calories": 36,
+    "protein_g": 3.6,
+    "carbs_g": 7,
+    "fat_g": 0.3
+  },
+  "Roasted Sweet Potatoes": {
+    "fdc_id": 2709704,
+    "fdc_description": "Sweet potato, candied",
+    "serving_label": "1 piece",
+    "serving_grams": 45,
+    "calories": 84,
+    "protein_g": 0.5,
+    "carbs_g": 17,
+    "fat_g": 1.6
+  },
+  "Scrambled Eggs": {
+    "fdc_id": 2707200,
+    "fdc_description": "Egg omelet or scrambled egg, made with oil",
+    "serving_label": "1 cup",
+    "serving_grams": 55,
+    "calories": 106,
+    "protein_g": 6.4,
+    "carbs_g": 0.5,
+    "fat_g": 8.7
+  },
+  "Pork Sausage Patties": {
+    "fdc_id": 174578,
+    "fdc_description": "Pork sausage, link/patty, cooked, pan-fried",
+    "serving_label": "1 cup.",
+    "serving_grams": 27,
+    "calories": 88,
+    "protein_g": 5,
+    "carbs_g": 0.4,
+    "fat_g": 7.4
+  },
+  "Cinnamon Rolls": {
+    "fdc_id": 2707668,
+    "fdc_description": "Roll, sweet, cinnamon bun, frosted",
+    "serving_label": "1 piece",
+    "serving_grams": 240,
+    "calories": 1085,
+    "protein_g": 10.7,
+    "carbs_g": 116.6,
+    "fat_g": 63.8
+  },
+  "Assorted Fruit": {
+    "fdc_id": 2709302,
+    "fdc_description": "Fruit salad, including citrus fruits, with salad dressing or mayonnaise",
+    "serving_label": "1 cup",
+    "serving_grams": 188,
+    "calories": 451,
+    "protein_g": 3.5,
+    "carbs_g": 24.4,
+    "fat_g": 38.2
+  },
+  "Oatmeal": {
+    "fdc_id": 172678,
+    "fdc_description": "Bread, oatmeal",
+    "serving_label": "1 cup",
+    "serving_grams": 27,
+    "calories": 73,
+    "protein_g": 2.3,
+    "carbs_g": 13.1,
+    "fat_g": 1.2
+  },
+  "Plant Based Sausage Patties": {
+    "fdc_id": 172439,
+    "fdc_description": "Bacon, meatless",
+    "serving_label": "3 strips",
+    "serving_grams": 5,
+    "calories": 15,
+    "protein_g": 0.6,
+    "carbs_g": 0.3,
+    "fat_g": 1.5
+  },
+  "Waffle Fries": {
+    "fdc_id": 2708312,
+    "fdc_description": "Waffle, NFS",
+    "serving_label": "1 piece",
+    "serving_grams": 135,
+    "calories": 417,
+    "protein_g": 10,
+    "carbs_g": 65.3,
+    "fat_g": 12.8
+  },
+  "Pasta": {
+    "fdc_id": 2708357,
+    "fdc_description": "Pasta, cooked",
+    "serving_label": "1 cup",
+    "serving_grams": 140,
+    "calories": 220,
+    "protein_g": 8.1,
+    "carbs_g": 43,
+    "fat_g": 1.3
+  },
+  "Parmesan Cheese": {
+    "fdc_id": 171247,
+    "fdc_description": "Cheese, parmesan, grated",
+    "serving_label": "1 cup",
+    "serving_grams": 28.35,
+    "calories": 119,
+    "protein_g": 8.1,
+    "carbs_g": 3.9,
+    "fat_g": 7.9
+  },
+  "Teriyaki Chicken": {
+    "fdc_id": 2707109,
+    "fdc_description": "Teriyaki chicken with rice and vegetable, diet frozen meal",
+    "serving_label": "1 cup",
+    "serving_grams": 312,
+    "calories": 393,
+    "protein_g": 17.6,
+    "carbs_g": 70.2,
+    "fat_g": 4.9
+  },
+  "Beef & Broccoli Lo Mein": {
+    "fdc_id": 2708802,
+    "fdc_description": "Lo mein, with beef",
+    "serving_label": "1 cup",
+    "serving_grams": 200,
+    "calories": 258,
+    "protein_g": 19.5,
+    "carbs_g": 32.4,
+    "fat_g": 5.5
+  },
+  "Zucchini, Squash, Red Pepper & Carrots": {
+    "fdc_id": 2710015,
+    "fdc_description": "Classic mixed vegetables, NS as to form, cooked",
+    "serving_label": "1 cup",
+    "serving_grams": 185,
+    "calories": 159,
+    "protein_g": 5.1,
+    "carbs_g": 23.5,
+    "fat_g": 5
+  },
+  "Spicy Kale Tofu Bowl": {
+    "fdc_id": 2706751,
+    "fdc_description": "Stir fried beef and vegetables in soy sauce",
+    "serving_label": "1 cup",
+    "serving_grams": 162,
+    "calories": 165,
+    "protein_g": 17.3,
+    "carbs_g": 7.2,
+    "fat_g": 7.8
+  },
+  "Brown Rice": {
+    "fdc_id": 169680,
+    "fdc_description": "Snacks, rice cakes, brown rice, multigrain",
+    "serving_label": "1 cup",
+    "serving_grams": 9,
+    "calories": 35,
+    "protein_g": 0.8,
+    "carbs_g": 7.2,
+    "fat_g": 0.3
+  }
+}
